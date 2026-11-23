@@ -1,0 +1,9 @@
+
+.git
+.gitignore
+.env
+.env.*
+*.sql
+*.zip
+*.pem
+*.log
